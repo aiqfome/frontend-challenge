@@ -18,10 +18,10 @@ Algumas coisas que a nós queremos ver de você:
 
 ## Regras básicas
 
-- Estamos procurando devs familiarizados com projetos utilizando React ou VueJS, então essa é uma exigência importante!
-- Você pode usar demais bibliotecas que se sentir confortável, não temos exigência pra isso!
-- Você deve fazer um fork deste projeto e depois que finalizar, envia o link do teu repo pra nós!
-- Você tem 3 dias para criar a interface, caso não tenha finalizado ou encontrado alguma dificuldade, não tem problema! Avaliaremos o que estiver pronto 😊
+- O time de recrutamento vai passar qual framework você deve usar pra criar o projeto.
+- Você pode usar demais bibliotecas que se sentir confortável, não temos exigência pra isso.
+- Você deve fazer um fork deste projeto e depois que finalizar, envia o link do teu repo pra nós.
+- Você tem 3 dias para criar a interface, caso não tenha finalizado ou encontrado alguma dificuldade, não tem problema! Avaliaremos o que estiver pronto.
 
 <br/>
 
